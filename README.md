@@ -38,7 +38,7 @@ Investigar as categorias que frequentemente aparecem em alta e como o comportame
 
 ## 🏆 Conquista
 
-![Imagem da Conquista - Gênio de Dashboards](/Trending_by_time - Maikon Silva/conquista.png)
+![Imagem da Conquista - Gênio de Dashboards](https://github.com/m4ik-crtl/trending-by-time/blob/main/Trending_by_time%20-%20Maikon%20Silva/conquista.png)
 
 ---
 - Investigar **correlações com eventos locais**
